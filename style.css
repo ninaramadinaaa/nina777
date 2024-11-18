@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar-brand span {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.card-body h2 {
+  color: #0056b3;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.card-body p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #6c757d;
+}
